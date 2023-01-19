@@ -38,6 +38,7 @@ MIDDLEWARE = [
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
+
 ROOT_URLCONF = 'music_controller.urls'
 
 TEMPLATES = [
