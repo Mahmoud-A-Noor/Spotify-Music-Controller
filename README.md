@@ -1,2 +1,3 @@
 # Spotify-Music-Controller
-Spotify Music Controller made using React &amp; Django
+
+### You can find preview of the system [here](https://smc.onrender.com/)
